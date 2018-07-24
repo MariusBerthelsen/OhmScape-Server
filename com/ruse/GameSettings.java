@@ -9,7 +9,7 @@ import com.ruse.net.security.ConnectionHandler;
 public class GameSettings {
 	
 
-	public static final String RSPS_NAME = "OhmScape v2";
+	public static final String RSPS_NAME = "OhmScape";
 	public static final String BCRYPT_EXAMPLE_SALT = "$2a$09$kCPIaYJ6vJmzJM/zq8vuSO";
 	
 	/**
